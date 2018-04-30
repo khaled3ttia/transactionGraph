@@ -1,0 +1,15 @@
+begin_T1:100
+write_x:5555
+commit_T1:200
+
+begin_T2:300
+read_x:5555
+commit_T2:400
+
+begin_T3:500
+write_x:2000
+commit_T3:700
+
+begin_T4:701
+read_x:800
+commit_T4:800
