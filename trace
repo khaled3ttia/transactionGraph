@@ -2,7 +2,7 @@ begin_T1:100
 write_x:5555
 commit_T1:200
 
-begin_T2:300
+begin_T2:198
 read_x:5555
 write_y:100
 commit_T2:450
@@ -19,3 +19,4 @@ commit_T4:800
 begin_T5:802
 write_z:5000
 commit_T5:900
+
